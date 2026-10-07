@@ -1,0 +1,113 @@
+{
+  "built_at": "2026-10-05 03:13:13",
+  "assets": [
+    {
+      "name": "superior left_side_mockup (1).jpg",
+      "width": 1577,
+      "height": 792,
+      "mode": "RGB",
+      "format": "JPEG",
+      "sha256": "c3b762ace75dcb659cd5af088837c831baf87c1809d595a2f78d997747b7cdc8",
+      "bytes": 224950
+    },
+    {
+      "name": "ChatGPT Image Sep 3, 2026, 11_29_43 AM.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "5eeee003af4abcc63d643520e600b87e7a1ee19dbf1350c98c0d8752089bdf90",
+      "bytes": 2217957
+    },
+    {
+      "name": "cupon los cuates.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "7e3532e5a37095537a3e602124bf026f9a9685bb7827c4ea3e31a2ed662f656d",
+      "bytes": 3196909
+    },
+    {
+      "name": "diseno banner mesa.png",
+      "width": 1915,
+      "height": 821,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "7ebffac68e9039045c98dd6f5d76f8403a56d870fdb3d8900a2d7822e1a198af",
+      "bytes": 1874587
+    },
+    {
+      "name": "hf_20260629_201730_f348f729-f141-41d7-a5c9-a6bfbccc7272 (1).png",
+      "width": 1856,
+      "height": 2304,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "e5e187cd418c73297c41c2e7374b45da78f87838da1f8f045315a29046572bfe",
+      "bytes": 8273713
+    },
+    {
+      "name": "ChatGPT Image Jun 19, 2026, 08_50_20 PM.png",
+      "width": 941,
+      "height": 1672,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "43b21ca308aaf255486e755c2ab489f5dc58b4f0abd7b20ddcabd02244de201a",
+      "bytes": 2104807
+    },
+    {
+      "name": "ChatGPT Image Jun 17, 2026, 09_59_15 AM.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "a53c973459b0b1c294375d8bb3527c273dddf839601c079a89bfededa5ee36aa",
+      "bytes": 2576138
+    },
+    {
+      "name": "menu Menlo park corregido2.png",
+      "width": 1573,
+      "height": 1000,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "89fd227c2d4340d1c677ab0e3d3b510b2dbf757774365cdc9762089c7f1f6468",
+      "bytes": 2532524
+    },
+    {
+      "name": "menu pantalla 3.png",
+      "width": 1649,
+      "height": 954,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "773afcd6b62eefd8fe5f75152b9e7d0f7d2c700cf218cbd116a65bc6f158659f",
+      "bytes": 2123665
+    },
+    {
+      "name": "ChatGPT Image Jun 13, 2026, 01_22_27 PM.png",
+      "width": 1537,
+      "height": 1023,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "9b4d66b6dd44d8f0ed84669cdf02a70e1a1c83c270f31d62f2f4bbc1b1830d9f",
+      "bytes": 2483457
+    },
+    {
+      "name": "ChatGPT Image Jun 13, 2026, 12_37_52 PM.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "2fb8622025d8e57c78eb5e6b63bac4fc3e89d35d58cd693ea9f0a3bccfb57378",
+      "bytes": 2109865
+    },
+    {
+      "name": "pandulce (1) comprimida.png",
+      "width": 2259,
+      "height": 3481,
+      "mode": "RGBA",
+      "format": "PNG",
+      "sha256": "fa3e275910f70345eada3691c05c176e651cf7dc70c0902071aeabad7bf02030",
+      "bytes": 9726144
+    }
+  ]
+}
