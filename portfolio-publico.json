@@ -116,6 +116,139 @@
       "category": "Web",
       "file": "web_la_jaiba_contacto.png",
       "url": "https://la-jaiba-brava-menu.netlify.app/"
+    },
+    {
+      "id": "cjr-flotilla",
+      "client": "CJR – Carlos J. Romero",
+      "title": "Rotulación de flotilla",
+      "category": "Rotulación vehicular",
+      "files": [
+        "trabajos/cjr-flotilla/01.jpg",
+        "trabajos/cjr-flotilla/02.jpg",
+        "trabajos/cjr-flotilla/03.jpg",
+        "trabajos/cjr-flotilla/04.jpg"
+      ]
+    },
+    {
+      "id": "godspeed-puertas",
+      "client": "Godspeed Fabrication & Steel",
+      "title": "Rotulación de puertas de camión",
+      "category": "Rotulación vehicular",
+      "files": [
+        "trabajos/godspeed-puertas/01.jpg",
+        "trabajos/godspeed-puertas/02.jpg",
+        "trabajos/godspeed-puertas/03.jpg",
+        "trabajos/godspeed-puertas/04.jpg",
+        "trabajos/godspeed-puertas/05.jpg"
+      ]
+    },
+    {
+      "id": "superior-banner",
+      "client": "Superior Filmzz",
+      "title": "Banner promocional",
+      "category": "Gran formato",
+      "files": [
+        "trabajos/superior-banner/01.jpg",
+        "trabajos/superior-banner/02.jpg"
+      ]
+    },
+    {
+      "id": "superior-stickers",
+      "client": "Superior Filmzz",
+      "title": "Stickers troquelados",
+      "category": "Impresos",
+      "files": [
+        "trabajos/superior-stickers/01.jpg",
+        "trabajos/superior-stickers/02.jpg",
+        "trabajos/superior-stickers/03.jpg"
+      ]
+    },
+    {
+      "id": "superior-letreros",
+      "client": "Superior Filmzz",
+      "title": "Letreros de jardín",
+      "category": "Impresos",
+      "files": [
+        "trabajos/superior-letreros/01.jpg",
+        "trabajos/superior-letreros/02.jpg",
+        "trabajos/superior-letreros/03.jpg"
+      ]
+    },
+    {
+      "id": "superior-folleto",
+      "client": "Superior Filmzz",
+      "title": "Folleto tríptico",
+      "category": "Impresos",
+      "files": [
+        "trabajos/superior-folleto/01.jpg",
+        "trabajos/superior-folleto/02.jpg",
+        "trabajos/superior-folleto/03.jpg",
+        "trabajos/superior-folleto/04.jpg"
+      ]
+    },
+    {
+      "id": "loscuates-banner",
+      "client": "Los Cuates Supermercado",
+      "title": "Banner de taquería",
+      "category": "Gran formato",
+      "files": [
+        "trabajos/loscuates-banner/01.jpg",
+        "trabajos/loscuates-banner/02.jpg",
+        "trabajos/loscuates-banner/03.jpg"
+      ]
+    },
+    {
+      "id": "laceiba-banner",
+      "client": "Mariscos La Ceiba",
+      "title": "Banner impreso",
+      "category": "Gran formato",
+      "files": [
+        "trabajos/laceiba-banner/01.jpg"
+      ]
+    },
+    {
+      "id": "rg-letreros",
+      "client": "R&G Professional Painting",
+      "title": "Letreros y gráficos",
+      "category": "Impresos",
+      "files": [
+        "trabajos/rg-letreros/01.jpg",
+        "trabajos/rg-letreros/02.jpg",
+        "trabajos/rg-letreros/03.jpg"
+      ]
+    },
+    {
+      "id": "supremeas-folleto",
+      "client": "Supremeas.co",
+      "title": "Folleto plegable",
+      "category": "Impresos",
+      "files": [
+        "trabajos/supremeas-folleto/01.jpg",
+        "trabajos/supremeas-folleto/02.jpg",
+        "trabajos/supremeas-folleto/03.jpg",
+        "trabajos/supremeas-folleto/04.jpg",
+        "trabajos/supremeas-folleto/05.jpg"
+      ]
+    },
+    {
+      "id": "clinic84-playeras",
+      "client": "Clinic84",
+      "title": "Playeras estampadas",
+      "category": "Textil",
+      "files": [
+        "trabajos/clinic84-playeras/01.jpg"
+      ]
+    },
+    {
+      "id": "jackinthebox-playeras",
+      "client": "Jack in the Box",
+      "title": "Playeras promocionales",
+      "category": "Textil",
+      "files": [
+        "trabajos/jackinthebox-playeras/01.jpg",
+        "trabajos/jackinthebox-playeras/02.jpg",
+        "trabajos/jackinthebox-playeras/03.jpg"
+      ]
     }
   ]
 }

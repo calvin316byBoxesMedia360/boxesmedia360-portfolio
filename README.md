@@ -30,3 +30,11 @@ El autor confirma que los trabajos son suyos y que cuenta con autorización de l
 - El portal de BoxesMedia360 consume esta selección al ejecutar `npm run sync:portfolio` en el proyecto portal. Modificar este JSON permite incorporar o editar fichas en la siguiente sincronización. No hay despliegue automático conectado.
 - El nuevo sitio se inspeccionó visualmente; no se enviaron mensajes, iniciaron llamadas ni realizó una auditoría funcional completa.
 
+
+## Tanda de trabajos impresos y rotulación · 13 de octubre de 2026
+
+- Incorporados 12 proyectos (37 fotos) desde la carpeta de Drive "Portfolio new images": rotulación vehicular (CJR, Godspeed), gran formato (Superior Filmzz, Los Cuates, Mariscos La Ceiba), impresos (Superior Filmzz, R&G Professional Painting, Supremeas.co) y textil (Clinic84, Jack in the Box).
+- Las fotos están en `trabajos/<proyecto>/NN.jpg`, redimensionadas a 2000 px como máximo y **sin metadatos EXIF** (sin ubicación GPS, modelo de teléfono ni fecha).
+- En una foto del folleto de Superior Filmzz se difuminaron fotografías personales visibles en la pared.
+- Las fichas nuevas usan el campo `files` (galería): la primera imagen es la portada.
+- El autor confirma autorización para mostrar todas las marcas, incluida Jack in the Box.
