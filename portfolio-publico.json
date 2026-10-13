@@ -1,0 +1,121 @@
+{
+  "repository": "calvin316byBoxesMedia360/boxesmedia360-portfolio",
+  "projects": [
+    {
+      "id": "superior",
+      "client": "Superior Filmzz",
+      "title": "Rotulación de vehículo · Mockup",
+      "category": "Identidad",
+      "file": "asset_01.jpg"
+    },
+    {
+      "id": "print",
+      "client": "Print Zown",
+      "title": "Diseño de tarjeta de contacto",
+      "category": "Identidad",
+      "file": "asset_02.png"
+    },
+    {
+      "id": "cupon",
+      "client": "Los Cuates",
+      "title": "Cupón promocional",
+      "category": "Diseño comercial",
+      "file": "asset_03.png"
+    },
+    {
+      "id": "banner",
+      "client": "Los Cuates",
+      "title": "Banner comercial",
+      "category": "Diseño comercial",
+      "file": "asset_04.png"
+    },
+    {
+      "id": "bebidas",
+      "client": "La Catrina",
+      "title": "Publicidad de bebidas",
+      "category": "Diseño comercial",
+      "file": "asset_05.png"
+    },
+    {
+      "id": "poster",
+      "client": "La Catrina",
+      "title": "Póster gastronómico",
+      "category": "Diseño comercial",
+      "file": "asset_06.png"
+    },
+    {
+      "id": "mesa",
+      "client": "La Catrina",
+      "title": "Presentación de mesa · Mockup",
+      "category": "Diseño comercial",
+      "file": "asset_07.png"
+    },
+    {
+      "id": "menlo",
+      "client": "Mi Tienda",
+      "title": "Menú multipanel",
+      "category": "Menús digitales",
+      "file": "asset_08.png"
+    },
+    {
+      "id": "menu",
+      "client": "Diseño gastronómico",
+      "title": "Menú digital",
+      "category": "Menús digitales",
+      "file": "asset_09.png"
+    },
+    {
+      "id": "food",
+      "client": "Diseño gastronómico",
+      "title": "Composición de alimentos",
+      "category": "Imagen de producto",
+      "file": "asset_10.png"
+    },
+    {
+      "id": "drink",
+      "client": "Diseño gastronómico",
+      "title": "Composición de bebida",
+      "category": "Imagen de producto",
+      "file": "asset_11.png"
+    },
+    {
+      "id": "pan",
+      "client": "Diseño gastronómico",
+      "title": "Promoción de pan dulce",
+      "category": "Diseño comercial",
+      "file": "asset_12.png"
+    },
+    {
+      "id": "alteno",
+      "client": "El Alteño",
+      "title": "Sitio web de restaurante",
+      "category": "Web",
+      "file": "web_el_alteno.png",
+      "url": "https://elaltenorestaurant.com/"
+    },
+    {
+      "id": "jaiba",
+      "client": "La Jaiba Brava",
+      "title": "Muestrario web interactivo",
+      "category": "Web",
+      "file": "web_la_jaiba_brava.png",
+      "url": "https://la-jaiba-brava-muestrario.calvin316.chatgpt.site/"
+    },
+    {
+      "id": "boxes",
+      "client": "BoxesMedia360",
+      "title": "Sitio del estudio",
+      "category": "Web",
+      "file": "web_boxesmedia360.png",
+      "url": "https://boxesmedia360.com/"
+    },
+    {
+      "id": "jaiba-contacto",
+      "client": "La Jaiba Brava",
+      "title": "Tarjeta digital de contacto",
+      "category": "Web",
+      "file": "web_la_jaiba_contacto.png",
+      "url": "https://la-jaiba-brava-menu.netlify.app/"
+    }
+  ]
+}
