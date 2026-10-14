@@ -126,7 +126,9 @@
         "trabajos/cjr-flotilla/01.jpg",
         "trabajos/cjr-flotilla/02.jpg",
         "trabajos/cjr-flotilla/03.jpg",
-        "trabajos/cjr-flotilla/04.jpg"
+        "trabajos/cjr-flotilla/04.jpg",
+        "trabajos/cjr-flotilla/05.jpg",
+        "trabajos/cjr-flotilla/06.jpg"
       ]
     },
     {
@@ -139,7 +141,10 @@
         "trabajos/godspeed-puertas/02.jpg",
         "trabajos/godspeed-puertas/03.jpg",
         "trabajos/godspeed-puertas/04.jpg",
-        "trabajos/godspeed-puertas/05.jpg"
+        "trabajos/godspeed-puertas/05.jpg",
+        "trabajos/godspeed-puertas/06.jpg",
+        "trabajos/godspeed-puertas/07.jpg",
+        "trabajos/godspeed-puertas/08.jpg"
       ]
     },
     {
@@ -149,7 +154,8 @@
       "category": "Gran formato",
       "files": [
         "trabajos/superior-banner/01.jpg",
-        "trabajos/superior-banner/02.jpg"
+        "trabajos/superior-banner/02.jpg",
+        "trabajos/superior-banner/03.jpg"
       ]
     },
     {
@@ -160,7 +166,8 @@
       "files": [
         "trabajos/superior-stickers/01.jpg",
         "trabajos/superior-stickers/02.jpg",
-        "trabajos/superior-stickers/03.jpg"
+        "trabajos/superior-stickers/03.jpg",
+        "trabajos/superior-stickers/04.jpg"
       ]
     },
     {
@@ -171,7 +178,8 @@
       "files": [
         "trabajos/superior-letreros/01.jpg",
         "trabajos/superior-letreros/02.jpg",
-        "trabajos/superior-letreros/03.jpg"
+        "trabajos/superior-letreros/03.jpg",
+        "trabajos/superior-letreros/04.jpg"
       ]
     },
     {
@@ -189,21 +197,27 @@
     {
       "id": "loscuates-banner",
       "client": "Los Cuates Supermercado",
-      "title": "Banner de taquería",
+      "title": "Banners de taquería y promociones",
       "category": "Gran formato",
       "files": [
         "trabajos/loscuates-banner/01.jpg",
         "trabajos/loscuates-banner/02.jpg",
-        "trabajos/loscuates-banner/03.jpg"
+        "trabajos/loscuates-banner/03.jpg",
+        "trabajos/loscuates-banner/04.jpg",
+        "trabajos/loscuates-banner/05.jpg",
+        "trabajos/loscuates-banner/06.jpg",
+        "trabajos/loscuates-banner/07.jpg"
       ]
     },
     {
       "id": "laceiba-banner",
       "client": "Mariscos La Ceiba",
-      "title": "Banner impreso",
+      "title": "Banners impresos",
       "category": "Gran formato",
       "files": [
-        "trabajos/laceiba-banner/01.jpg"
+        "trabajos/laceiba-banner/01.jpg",
+        "trabajos/laceiba-banner/02.jpg",
+        "trabajos/laceiba-banner/03.jpg"
       ]
     },
     {
@@ -233,10 +247,17 @@
     {
       "id": "clinic84-playeras",
       "client": "Clinic84",
-      "title": "Playeras estampadas",
+      "title": "Playeras y sudaderas estampadas",
       "category": "Textil",
       "files": [
-        "trabajos/clinic84-playeras/01.jpg"
+        "trabajos/clinic84-playeras/01.jpg",
+        "trabajos/clinic84-playeras/02.jpg",
+        "trabajos/clinic84-playeras/03.jpg",
+        "trabajos/clinic84-playeras/04.jpg",
+        "trabajos/clinic84-playeras/05.jpg",
+        "trabajos/clinic84-playeras/06.jpg",
+        "trabajos/clinic84-playeras/07.jpg",
+        "trabajos/clinic84-playeras/08.jpg"
       ]
     },
     {
@@ -248,6 +269,39 @@
         "trabajos/jackinthebox-playeras/01.jpg",
         "trabajos/jackinthebox-playeras/02.jpg",
         "trabajos/jackinthebox-playeras/03.jpg"
+      ]
+    },
+    {
+      "id": "cjr-letreros",
+      "client": "CJR – Carlos J. Romero",
+      "title": "Letreros de jardín con QR",
+      "category": "Gran formato",
+      "files": [
+        "trabajos/cjr-letreros/01.jpg",
+        "trabajos/cjr-letreros/02.jpg"
+      ]
+    },
+    {
+      "id": "angels-vitrina",
+      "client": "Angel's Auto Care Center",
+      "title": "Vinil de corte para vitrina",
+      "category": "Rotulación de vitrinas",
+      "files": [
+        "trabajos/angels-vitrina/01.jpg",
+        "trabajos/angels-vitrina/02.jpg",
+        "trabajos/angels-vitrina/03.jpg"
+      ]
+    },
+    {
+      "id": "loscuates-impresos",
+      "client": "Los Cuates",
+      "title": "Tarjetas de presentación y stickers QR de menú",
+      "category": "Impresos",
+      "files": [
+        "trabajos/loscuates-impresos/01.jpg",
+        "trabajos/loscuates-impresos/02.jpg",
+        "trabajos/loscuates-impresos/03.jpg",
+        "trabajos/loscuates-impresos/04.jpg"
       ]
     }
   ]

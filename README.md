@@ -38,3 +38,7 @@ El autor confirma que los trabajos son suyos y que cuenta con autorización de l
 - En una foto del folleto de Superior Filmzz se difuminaron fotografías personales visibles en la pared.
 - Las fichas nuevas usan el campo `files` (galería): la primera imagen es la portada.
 - El autor confirma autorización para mostrar todas las marcas, incluida Jack in the Box.
+
+
+### Tanda 2 (oct 2026)
+30 fotos nuevas: ampliaciones de Clinic84 (sudaderas), Los Cuates, La Ceiba, Superior Filmzz, Godspeed y CJR, más 3 proyectos nuevos: `cjr-letreros`, `angels-vitrina` y `loscuates-impresos`. Rostros de personas difuminados; fotos sin EXIF/GPS, máx. 2000 px.
