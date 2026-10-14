@@ -155,7 +155,9 @@
       "files": [
         "trabajos/superior-banner/01.jpg",
         "trabajos/superior-banner/02.jpg",
-        "trabajos/superior-banner/03.jpg"
+        "trabajos/superior-banner/03.jpg",
+        "trabajos/superior-banner/04.jpg",
+        "trabajos/superior-banner/05.jpg"
       ]
     },
     {
@@ -167,7 +169,8 @@
         "trabajos/superior-stickers/01.jpg",
         "trabajos/superior-stickers/02.jpg",
         "trabajos/superior-stickers/03.jpg",
-        "trabajos/superior-stickers/04.jpg"
+        "trabajos/superior-stickers/04.jpg",
+        "trabajos/superior-stickers/05.jpg"
       ]
     },
     {
@@ -206,7 +209,13 @@
         "trabajos/loscuates-banner/04.jpg",
         "trabajos/loscuates-banner/05.jpg",
         "trabajos/loscuates-banner/06.jpg",
-        "trabajos/loscuates-banner/07.jpg"
+        "trabajos/loscuates-banner/07.jpg",
+        "trabajos/loscuates-banner/08.jpg",
+        "trabajos/loscuates-banner/09.jpg",
+        "trabajos/loscuates-banner/10.jpg",
+        "trabajos/loscuates-banner/11.jpg",
+        "trabajos/loscuates-banner/12.jpg",
+        "trabajos/loscuates-banner/13.jpg"
       ]
     },
     {
@@ -217,7 +226,8 @@
       "files": [
         "trabajos/laceiba-banner/01.jpg",
         "trabajos/laceiba-banner/02.jpg",
-        "trabajos/laceiba-banner/03.jpg"
+        "trabajos/laceiba-banner/03.jpg",
+        "trabajos/laceiba-banner/04.jpg"
       ]
     },
     {
@@ -233,7 +243,7 @@
     },
     {
       "id": "supremeas-folleto",
-      "client": "Supremeas.co",
+      "client": "Supremeas",
       "title": "Folleto plegable",
       "category": "Impresos",
       "files": [
@@ -250,14 +260,21 @@
       "title": "Playeras y sudaderas estampadas",
       "category": "Textil",
       "files": [
-        "trabajos/clinic84-playeras/01.jpg",
         "trabajos/clinic84-playeras/02.jpg",
         "trabajos/clinic84-playeras/03.jpg",
         "trabajos/clinic84-playeras/04.jpg",
-        "trabajos/clinic84-playeras/05.jpg",
-        "trabajos/clinic84-playeras/06.jpg",
         "trabajos/clinic84-playeras/07.jpg",
         "trabajos/clinic84-playeras/08.jpg"
+      ]
+    },
+    {
+      "id": "clinic84-banner",
+      "client": "Clinic84",
+      "title": "Banner promocional",
+      "category": "Gran formato",
+      "files": [
+        "trabajos/clinic84-banner/01.jpg",
+        "trabajos/clinic84-banner/02.jpg"
       ]
     },
     {
@@ -278,7 +295,8 @@
       "category": "Gran formato",
       "files": [
         "trabajos/cjr-letreros/01.jpg",
-        "trabajos/cjr-letreros/02.jpg"
+        "trabajos/cjr-letreros/02.jpg",
+        "trabajos/cjr-letreros/03.jpg"
       ]
     },
     {
@@ -288,8 +306,7 @@
       "category": "Rotulación de vitrinas",
       "files": [
         "trabajos/angels-vitrina/01.jpg",
-        "trabajos/angels-vitrina/02.jpg",
-        "trabajos/angels-vitrina/03.jpg"
+        "trabajos/angels-vitrina/02.jpg"
       ]
     },
     {
