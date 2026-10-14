@@ -42,3 +42,13 @@ El autor confirma que los trabajos son suyos y que cuenta con autorización de l
 
 ### Tanda 2 (oct 2026)
 30 fotos nuevas: ampliaciones de Clinic84 (sudaderas), Los Cuates, La Ceiba, Superior Filmzz, Godspeed y CJR, más 3 proyectos nuevos: `cjr-letreros`, `angels-vitrina` y `loscuates-impresos`. Rostros de personas difuminados; fotos sin EXIF/GPS, máx. 2000 px.
+
+
+### Tanda 3 (14 oct 2026) — fotos corregidas y galerías ampliadas
+- Proyecto nuevo: `clinic84-banner` (2 fotos).
+- Más fotos: `superior-banner` (3→5), `superior-stickers` (4→5), `loscuates-banner` (7→13), `laceiba-banner` (3→4), `cjr-letreros` (2→3).
+- Retiradas: 3 fotos de `clinic84-playeras` (8→5) y 1 de `angels-vitrina` (3→2). Fotos corregidas en 30 archivos de `trabajos/`.
+- Cliente `Supremeas.co` → `Supremeas` en la ficha.
+- Revisadas una por una: sin rostros visibles, sin EXIF/GPS, máx. 2000 px.
+- **Para el portal:** esta tanda reemplaza a la versión anterior de `main` (31 proyectos). Importar desde este commit sin sobrescribir lo que ya se editó en el portal. Nota: `loscuates-banner` tiene 13 fotos y el portal admite 8 por proyecto; decidir qué fotos conservar o dividir en dos fichas.
+- Último commit de esta tanda: ver `git log -1` de este archivo.
